@@ -1,5 +1,5 @@
 {
-    "yt_api_key_": "AIzaSyDtzMUhSizyb8HCqRIyszv65HSTFI2v1Mw",
-    "discord_token": "NDg2MTM2MTAzNTA2ODA0NzM5.Dm6tgQ.gXGL4Jai1iJVnQz81Q2vZC4d2CI",
+    "yt_api_key_": "process.env.yt_api_key",
+    "discord_token": "process.env.discord_token",
     "prefix": ">",
 }
